@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /
+Allow: /produk
+Allow: /produk/pesan
+Allow: /kerja-sama
+Allow: /karir
+Allow: /kontak
+Allow: /tentang
+Allow: /pusat-bantuan
+Allow: /syarat-ketentuan
+Sitemap: https://kamidigitalprinting.com/sitemap.xml
+Sitemap: https://kamidigitalprinting.com/sitemap-produk.xml

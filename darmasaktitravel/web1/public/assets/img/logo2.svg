@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1.17678in" height="0.400744in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 12982.19 4421.01"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="794" font-variant="normal" style="fill-rule:nonzero" font-weight="500">
+	<font-face 
+		font-family="Gotham Black">
+		<font-face-src>
+			<font-face-name name="Gotham-Black"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="." horiz-adv-x="283" d="M42.9965 0l198.004 0 0 195.003 -198.004 0 0 -195.003z"/>
+   <glyph unicode="D" horiz-adv-x="765" d="M62.0017 0l266.002 0c251.997,0 398.996,150 398.996,352.002l0 1.99868c0,202.002 -145,345.999 -394.998,345.999l-269.999 0 0 -699.999zm194 172l0 355.999 79.0011 0c115.994,0 192.997,-64.9961 192.997,-177l0 -1.99868c0,-113 -77.0024,-177 -192.997,-177l-79.0011 0z"/>
+   <glyph unicode="S" horiz-adv-x="652" d="M337.001 -11.9992c170.001,0 283.001,84.9971 283.001,227.999l0 1.99868c0,131.002 -100.005,183.003 -261.002,218.005 -97.0034,21.9997 -121.002,35.9975 -121.002,67.9977l0 1.99868c0,25.0012 23.0026,45.0022 70.0035,45.0022 61.9946,0 131.998,-23.9983 195.998,-69.0006l96.9963 136.998c-75.9995,60.9988 -168.998,92.9989 -287.994,92.9989 -168.003,0 -271.002,-94.0018 -271.002,-224.001l0 -1.99868c0,-143.997 114.999,-185.998 263.996,-219.997 95.0047,-21.9997 118,-38.0033 118,-67.0019l0 -1.99868c0,-30.0015 -27.9957,-48.0038 -79.9969,-48.0038 -80.9998,0 -158.002,29.0057 -227.003,84.0013l-108 -128.996c86,-77.0024 204,-116.002 328.004,-116.002z"/>
+   <glyph unicode="T" horiz-adv-x="659" d="M232.999 0l194 0 0 529.998 210.003 0 0 170.001 -613.999 0 0 -170.001 209.996 0 0 -529.998z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Gotham Black";font-variant:normal;font-weight:500;src:url("#FontID0") format(svg)}
+    .fil0 {fill:#0868A3}
+    .fnt0 {font-weight:500;font-size:6106.39px;font-family:'Gotham Black'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <text x="-378.61" y="4347.74"  class="fil0 fnt0">DST.</text>
+ </g>
+</svg>

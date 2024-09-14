@@ -1,0 +1,19 @@
+{
+    "name": "darmasaktitravel/carrent",
+    "description": "Darma Sakti Travel is Rental Car from Bandung",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Darmasaktitravel\\Carrent\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Chandra2004",
+            "email": "chandratriantomo123@gmail.com"
+        }
+    ],
+    "require": {
+        "php" : ">=8"
+    }
+}
